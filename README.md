@@ -4,8 +4,6 @@
 
 A full-stack e-commerce platform built with PHP, MySQL, and Bootstrap.
 
-**[View Demo](#getting-started) | [Report Bug](https://github.com/SamiAbuTouq/DART-Website/issues) | [Request Feature](https://github.com/SamiAbuTouq/DART-Website/issues)**
-
 </div>
 
 ---
@@ -23,7 +21,6 @@ A full-stack e-commerce platform built with PHP, MySQL, and Bootstrap.
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -290,9 +287,4 @@ The application uses a relational MySQL database named `dart` with the following
 | **Yazan Bdair**         | Developer        | Princess Sumaya University for Technology (PSUT) |
 | **Muhammad Almujahed**  | Developer        | Princess Sumaya University for Technology (PSUT) |
 
----
-
-## License
-
-This project was developed for academic purposes at Princess Sumaya University for Technology (PSUT). All rights reserved by the contributors.
 
