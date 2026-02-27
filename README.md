@@ -277,16 +277,36 @@ The application uses a relational MySQL database named `dart` with the following
 
 # Screenshots
 
-![Screenshot 1](Project/Screenshots/1.png)
-![Screenshot 2](Project/Screenshots/2.png)
-![Screenshot 3](Project/Screenshots/3.png)
-![Screenshot 4](Project/Screenshots/4.png)
-![Screenshot 5](Project/Screenshots/5.png)
-![Screenshot 6](Project/Screenshots/6.png)
-![Screenshot 7](Project/Screenshots/7.png)
-![Screenshot 8](Project/Screenshots/8.png)
-![Screenshot 9](Project/Screenshots/9.png)
-![Screenshot 10](Project/Screenshots/10.png)
+## Screenshots
+
+<table>
+<tr>
+<td><img src="Project/Screenshots/1.png" width="400"></td>
+<td><img src="Project/Screenshots/2.png" width="400"></td>
+</tr>
+
+<tr>
+<td><img src="Project/Screenshots/3.png" width="400"></td>
+<td><img src="Project/Screenshots/4.png" width="400"></td>
+</tr>
+
+<tr>
+<td><img src="Project/Screenshots/5.png" width="400"></td>
+<td><img src="Project/Screenshots/6.png" width="400"></td>
+</tr>
+
+<tr>
+<td><img src="Project/Screenshots/7.png" width="400"></td>
+<td><img src="Project/Screenshots/8.png" width="400"></td>
+</tr>
+
+<tr>
+<td><img src="Project/Screenshots/9.png" width="400"></td>
+<td><img src="Project/Screenshots/10.png" width="400"></td>
+</tr>
+
+
+</table>
 ---
 
 ## Contributors
