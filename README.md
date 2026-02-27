@@ -303,6 +303,7 @@ The application uses a relational MySQL database named `dart` with the following
 <td><img src="Project/Screenshots/9.png" width="400"></td>
 <td><img src="Project/Screenshots/10.png" width="400"></td>
 </tr>
+
 ---
 
 ## Contributors
