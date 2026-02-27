@@ -279,6 +279,7 @@ The application uses a relational MySQL database named `dart` with the following
 
 ## Screenshots
 
+<table>
 <tr>
 <td><img src="Project/Screenshots/1.png" width="400"></td>
 <td><img src="Project/Screenshots/2.png" width="400"></td>
@@ -303,6 +304,7 @@ The application uses a relational MySQL database named `dart` with the following
 <td><img src="Project/Screenshots/9.png" width="400"></td>
 <td><img src="Project/Screenshots/10.png" width="400"></td>
 </tr>
+</table>
 
 ---
 
