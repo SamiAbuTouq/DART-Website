@@ -275,10 +275,6 @@ The application uses a relational MySQL database named `dart` with the following
 
 ## Screenshots
 
-# Screenshots
-
-## Screenshots
-
 <table>
 <tr>
 <td><img src="Project/Screenshots/1.png" width="400"></td>
